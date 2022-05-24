@@ -28,7 +28,11 @@ För att ha lämpliga dimensioner bytte några detaljer: nu finns två hierarkie
 
 Kuben är nästan klar, några measures har varit adderat! Men i automatisk räkning finns inte medelvärde då var jag tvungen att skapa med *caluculations*:
 
-<img width="704" alt="image" src="https://user-images.githubusercontent.com/19158658/170118165-f26ddc6a-d691-4489-be89-6230f1fe4fa8.png">
+<img width="762" alt="image" src="https://user-images.githubusercontent.com/19158658/170119389-06dc096d-0c6e-483a-bc35-f8e2597fb45b.png">
 
 ### Kuben är  klar! 
+
+## Multidimensionall modell vs Tabullar modell
+
+
 
