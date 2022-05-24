@@ -1,4 +1,4 @@
-# SSAS
+# Flyg med SSAS
 #### Itzul L. Vergara
 
 ## Intro
@@ -32,7 +32,14 @@ Kuben är nästan klar, några measures har varit adderat! Men i automatisk räk
 
 ### Kuben är  klar! 
 
-## Multidimensionall modell vs Tabullar modell
+## Multidimensional modell vs Tabular modell
 
 
+Multidimensional model introducerades innan Tabullar modellen 2010 vs 2016. Tabular är mycket snabbare och enklare men kräver också mer RAM. Fördelar med multidimensional är att kan hantera mycket mer data och göra mer komplicerat measures. Den här tabla förklara enklare än jag: 
+
+<img width="657" alt="image" src="https://user-images.githubusercontent.com/19158658/170120506-b35c51b3-15ac-4326-a206-9ec117532109.png">
+
+
+
+# Stort Tack!
 
